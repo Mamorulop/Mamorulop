@@ -37,5 +37,4 @@ I'm currently studying Java, JavaScript, and Python technologies, focusing on sp
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="HTML" src="https://shields.io/badge/HTML-★★★★★-f06529?logo=html5&logoColor=white&labelColor=f06529" />
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
- />
 </div>
