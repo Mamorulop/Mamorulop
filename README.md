@@ -20,32 +20,8 @@ I'm currently studying Java, JavaScript, and Python technologies, focusing on sp
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio.marques.99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-marques-9a4b93387/)
-<br /> 
-
-## 📊  &nbsp;GitHub Analytics
-
-<br /> 
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamorulop&layout=compact&theme=cobalt)
-
-<br /> 
-
-## Perfil do Mamorulop 👻
-
- <div>
-   <a href="https://github.com/Mamorulop">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mamorulop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamorulop&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
  
 <br>
-
 
 ## 🛠️ &nbsp;Tech Skills
 
