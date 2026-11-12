@@ -18,7 +18,8 @@ I'm currently studying Java, JavaScript, and Python technologies, focusing on sp
 
 <br /> 
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:mauricio.marques.99@gmail.com>) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/maur%C3%ADcio-marques-9a4b93387/))
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio.marques.99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maur%C3%ADcio-marques-9a4b93387/)
 <br /> 
 
 ## 📊  &nbsp;GitHub Analytics
